@@ -1,6 +1,6 @@
 # Simulation
 simpy==4.1.1
-salabim==22.1.5
+#salabim==22.1.5
 
 # Math & Data
 numpy==1.26.4
