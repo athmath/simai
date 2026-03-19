@@ -16,9 +16,4 @@ tqdm==4.66.5
 jupyterlab==4.2.5
 ipykernel==6.29.5
 
-# Machine Learning / AI
-scikit-learn==1.5.2
-torch==2.2.2
-gymnasium==0.29.1
-stable-baselines3==2.3.2
 
