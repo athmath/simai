@@ -1,24 +1,24 @@
-# Simulation
-simpy==4.1.1
-#salabim==22.1.5
-
-# Math & Data
+# Core numerical
 numpy==1.26.4
-scipy==1.14.1
-pandas==2.2.2
+scipy==1.11.4
 
-# Visualization
-matplotlib==3.9.2
-seaborn==0.13.2
-tqdm==4.66.5
+# Data handling & plotting
+pandas==2.2.1
+matplotlib==3.8.2
 
-# Productivity
-jupyterlab==4.2.5
-ipykernel==6.29.5
+# Optimization (for policy / control problems)
+pyomo==6.7.1
+highspy==1.7.2
 
-# Machine Learning / AI
-scikit-learn==1.5.2
-torch==2.2.2
-gymnasium==0.29.1
-stable-baselines3==2.3.2
+# Symbolic (useful for derivations / validation)
+sympy==1.12
 
+# Optional but useful (networks of queues)
+networkx==3.2.1
+
+# Utilities
+tqdm==4.66.1
+
+# Notebook environment
+jupyterlab==4.1.5
+ipykernel==6.29.0
