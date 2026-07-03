@@ -12,6 +12,12 @@ highspy==1.7.2
 
 # Symbolic (useful for derivations / validation)
 sympy==1.12
+=======
+# Machine Learning / AI
+#scikit-learn==1.5.2
+#torch==2.2.2
+#gymnasium==0.29.1
+#stable-baselines3==2.3.2
 
 # Optional but useful (networks of queues)
 networkx==3.2.1

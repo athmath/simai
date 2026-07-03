@@ -25,3 +25,8 @@ def prob_sum_dice_exceeds(k, a, n=100_000, seed=None):
 # Example:
 k, a, n = 18, 74, 10000
 print(prob_sum_dice_exceeds(k, a))
+
+    
+    
+
+

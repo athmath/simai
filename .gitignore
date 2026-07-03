@@ -1,3 +1,2 @@
-simai_env 
-simai_venv/
+.venv/
 .ipynb-checkpoints/
