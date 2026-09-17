@@ -1,4 +1,4 @@
-#!/home/data1/github/simai/.venv/bin/python
+#!/Users/stranger/git/simai/.venv/bin/python3
 
 
 import argparse
